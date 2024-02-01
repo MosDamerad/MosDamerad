@@ -5,8 +5,7 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 # 📊 GitHub Stats:
-![mosdamerad's Stats](https://github-readme-stats.vercel.app/api?username=mosdamerad&theme=dracula&show_icons=true&hide_border=true&count_private=true) ![mosdamerad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosdamerad&theme=dracula&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mosdamerad&theme=dark&hide_border=false)<br/>
+![mosdamerad's Stats](https://github-readme-stats.vercel.app/api?username=mosdamerad&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  ![mosdamerad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosdamerad&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mosdamerad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
