@@ -4,6 +4,7 @@
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,scss,react,nextjs,nodejs,expressjs)](https://skillicons.dev)
 ## 📊 GitHub Stats:
 ![mosdamerad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosdamerad&theme=tokyonight&hide_border=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
